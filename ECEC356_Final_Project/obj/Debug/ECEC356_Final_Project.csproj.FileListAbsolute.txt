@@ -1,0 +1,13 @@
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\en\User.SimulatedDifferentialDrive.2006.M06.xml
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\User.SimulatedDifferentialDrive.2006.M06.dll
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\User.SimulatedDifferentialDrive.2006.M06.pdb
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\User.SimulatedDifferentialDrive.2006.M06.xml
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\ECEC356_Final_Project.csprojResolveAssemblyReference.cache
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\User.SimulatedDifferentialDrive.2006.M06.dll
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\User.SimulatedDifferentialDrive.2006.M06.pdb
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\App.baml
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\MainWindow.baml
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\App.g.cs
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\MainWindow.g.cs
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\User.SimulatedDifferentialDrive.2006.M06_MarkupCompile.cache
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\ECEC356_Final_Project\obj\Debug\User.SimulatedDifferentialDrive.2006.M06.g.resources

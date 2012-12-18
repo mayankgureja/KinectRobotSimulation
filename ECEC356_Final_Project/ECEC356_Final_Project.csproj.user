@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\DssHost32.exe</StartProgram>
+    <StartArguments>-port:50000 -tcpport:50001 -manifest:"Samples\Config\ECEC356_Final_Project.manifest.xml"</StartArguments>
+    <StartWorkingDirectory>E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\DssHost32.exe</StartProgram>
+    <StartArguments>-port:50000 -tcpport:50001 -manifest:"Samples\Config\MobileRobots.P3DX.Simulation.user.manifest.xml"</StartArguments>
+    <StartWorkingDirectory>E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\</ReferencePath>
+  </PropertyGroup>
+</Project>

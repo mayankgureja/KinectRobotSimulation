@@ -1,0 +1,7 @@
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\en\User.SimulatedDifferentialDrive.2006.M06.xml
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\User.SimulatedDifferentialDrive.2006.M06.dll
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\User.SimulatedDifferentialDrive.2006.M06.pdb
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\bin\User.SimulatedDifferentialDrive.2006.M06.xml
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\Simulation\DifferentialDrive\obj\Debug\SimulatedDifferentialDrive.csprojResolveAssemblyReference.cache
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\Simulation\DifferentialDrive\obj\Debug\User.SimulatedDifferentialDrive.2006.M06.dll
+E:\Users\m_gur_000\Microsoft Robotics Dev Studio 4\samples\Simulation\DifferentialDrive\obj\Debug\User.SimulatedDifferentialDrive.2006.M06.pdb
