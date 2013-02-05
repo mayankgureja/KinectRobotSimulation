@@ -10,7 +10,7 @@ This is a Cyber-Physical System (CPS) that uses a Microsoft Kinect sensor to pro
 
 In this project, multiple robots are created in a simulated environment and controlled via voice commands through the Kinect audio sensor and speech recognition software. This particular application allows the various robots to be controlled individually and independently, without any interference in the backend functioning of the robots. 
 
-See [a relative link](README.docx) for a full report.
+See [README.docx](README.docx) for a full report.
 
 Technologies Used
 -----------------
